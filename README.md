@@ -18,7 +18,7 @@
 
   <div >
     Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
+    Creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
 
@@ -58,17 +58,13 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone [https://github.com/reddevilprasun/spylt-gsap.git](https://github.com/reddevilprasun/spylt-gsap.git)
 
 # 2. Install dependencies
-npm install
-# or
-yarn
+bun install
 
 # 3. Start the dev server
-npm run dev
-# or
-yarn dev
+bun run dev
 ```
 
 ## Snippets (Code to Copy)
@@ -467,7 +463,7 @@ export { flavorlists, nutrientLists, cards };
 
 ## Assets
 
-- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
-- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
+- 🎥 Videos: [`/public/videos`](https://github.com/reddevilprasun/spylt-gsap/tree/main/public/videos)
+- 📚 Fonts: [`/public/fonts`](https://github.com/reddevilprasun/spylt-gsap/tree/main/public/fonts)
+- 🖼️ Images: [`/public/images`](https://github.com/reddevilprasun/spylt-gsap/tree/main/public/images)
 
